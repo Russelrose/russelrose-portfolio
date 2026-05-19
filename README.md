@@ -1,10 +1,12 @@
 # Russelrose Baduco Portfolio
 
-Luxury pink-black portfolio website for Executive Assistant, Admin/Marketing Support, and Architecture Support roles.
+Static HTML/CSS portfolio.
 
-## How to update
-- Edit `index.html` for text and links.
-- Edit `style.css` for colors and layout.
-- Replace images inside the `assets` folder.
+Upload all files directly to GitHub:
+- index.html
+- style.css
+- README.md
+- all .png files
 
-No phone number is included.
+Do NOT upload package.json.
+On Vercel, choose Framework Preset: Other.
